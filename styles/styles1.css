@@ -33,3 +33,4 @@ div {
 .new-words button {
   position: absolute right;
   display: inline-block; /* Make the buttons appear below each other */
+}
